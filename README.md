@@ -21,7 +21,15 @@ You could just simply follow those two rules:
 
 1. Create your Gemini-pro API key and put the key in line 16 of app.py
 
-2. Run app.py
+2. Make your own index.faiss and index.pkl (or you could use from us)
+  
+3. Run app.py
+
+Wikipedia dataset that we used was "20220301.simple" from https://huggingface.co/datasets/legacy-datasets/wikipedia
+
+index.faiss from that dataset: https://drive.google.com/file/d/1N0_OhUccPOftj2wqFr_VvDbGPtmdxT7A/view?usp=sharing
+
+index.pkl: https://drive.google.com/file/d/1neqAAa4OeuairLoAGgxAo0UZS5LFJ25i/view?usp=sharing
 
 # UI
 
