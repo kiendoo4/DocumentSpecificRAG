@@ -13,7 +13,7 @@ from langchain_core.runnables import RunnableParallel
 
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyA6c1zbv1fmejecgLteMpdIyqWYnfeiUQI"
+os.environ["GOOGLE_API_KEY"] = ""
 
 app = Flask(__name__)
 
