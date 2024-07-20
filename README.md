@@ -19,9 +19,7 @@ You could find more information about our work in this: ```./RAG.pdf```
 
 You could just simply follow those two rules:
 
-1. Create your Gemini-pro API key in this [link][15].
-
-[15] https://ai.google.dev/aistudio?hl=vi "link"
+1. Create your Gemini-pro API key and put the key in line 16 of app.py
 
 2. Run app.py
 
