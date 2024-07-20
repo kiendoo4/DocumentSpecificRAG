@@ -11,7 +11,7 @@ to facilitate similarity search and implemented FAISS for efficient storage and 
 * Implemented RAG pipeline using LangChain, incorporating document loading, embedding, vector store
 creation and retrieval to enhance question answering capabilities.
 
-* Developed a chatbot web application with Flask and Bootstrap 5.0
+* Developed a chatbot web application with Flask and Bootstrap 5.0 (by HatakaCder)
 
 You could find more information about our work in this: ```./RAG.pdf```
 
